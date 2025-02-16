@@ -1,3 +1,7 @@
+/*
+Problem Description: https://leetcode.com/problems/course-schedule/description/
+*/
+
 package org.example;
 
 import java.util.ArrayList;
